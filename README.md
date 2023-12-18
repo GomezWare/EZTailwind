@@ -9,9 +9,9 @@ You need an updated NodeJS installation.
 
    ```sh ./createProject.sh```
 
-2.  Follow the script steps and Vite steps:
+2.  **Follow the script steps and Vite steps:**
 The script will guide you through the necessary steps to set up your project. It will prompt you for information and perform the required installations. Be sure to follow the instructions provided.
 
 The best configuration is JavaScript Vainilla.
 
-4.  Your project files will be in Project folder.
+3.  **Your project files will be in Project folder.**
