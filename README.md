@@ -3,10 +3,15 @@ A quick Vite and Tailwind deployer.
 
 You need an updated NodeJS installation.
 
-## Instrutions
-1º Run createProject.sh
-``` sh ./createProject.sh ```
+## Instructions
+1. **Run createProject.sh:**
+   Open your terminal and run the following command to create a new EZTailwind project:
 
-2º Follow the script steps and Vite steps.
+   ```sh ./createProject.sh```
 
-3º Your project files will be in Project folder.
+2.  Follow the script steps and Vite steps:
+The script will guide you through the necessary steps to set up your project. It will prompt you for information and perform the required installations. Be sure to follow the instructions provided.
+
+The best configuration is JavaScript Vainilla.
+
+4.  Your project files will be in Project folder.
